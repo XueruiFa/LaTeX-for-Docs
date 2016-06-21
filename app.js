@@ -1,6 +1,5 @@
 //Functions that runs when GoogleDocs is opened
 
-
 function onOpen(e) {
 
 	//The main body of the active doc

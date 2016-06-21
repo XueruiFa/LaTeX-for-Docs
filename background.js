@@ -1,1 +1,1 @@
-//Script that runs in the background when 
+//Script that runs in the background when GoogleDocs is opened
