@@ -10,5 +10,5 @@ function onOpen(e) {
  	// all the characters in the document.
 
  	var text = body.editAsText();
-
+ 	// HI XFA
 }
